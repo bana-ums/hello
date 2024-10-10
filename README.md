@@ -1,0 +1,2 @@
+# hello
+belajar menggunakan github
